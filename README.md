@@ -43,6 +43,7 @@ This is the backend server powering the Fitnora ecosystem. Built with Go and Gin
    GEMINI_API_KEY=your_gemini_api_key
 
    # Run the server
+   # The server will start running at http://localhost:8080
    go run main.go
    ```
    
